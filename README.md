@@ -95,8 +95,3 @@ This runs the simulation with 5 philosophers where:
 This project was completed as part of the **42 School** curriculum.
 
 ---
-
-### Disclaimer
-
-This project is for educational purposes only and follows the **42 project guidelines**. Ensure you comply with the **school's norms** regarding collaboration and external resources.
-
